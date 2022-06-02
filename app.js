@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
     res.send("4주차 개인과제 항해99 7기 채예찬!!!");
 });
 
-app.listen(8080, () => {
+app.listen(5000, () => {
     console.log("서버가 열렸습니다!!");
   });
 
